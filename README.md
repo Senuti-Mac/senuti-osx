@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/senuti">  
+<a href="https://tubus-jubus-apps.github.io/.github/senuti">  
 <img src="https://img.shields.io/badge/💻_GET_Senuti-blue?style=for-the-badge&logo=apple" alt="GET Senuti">  
 </a>  
 </div>
